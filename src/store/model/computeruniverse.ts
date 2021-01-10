@@ -184,6 +184,20 @@ export const Computeruniverse: Store = {
 		},
 		{
 			brand: 'asus',
+			model: 'tuf',
+			series: '3070',
+			url:
+				'https://www.computeruniverse.net/de/asus-tuf-geforce-rtx3070-gaming-tuf-rtx3070-8g-gaming-8-gb-oc-enthusiast-grafikkarte'
+		},
+		{
+			brand: 'asus',
+			model: 'tuf oc',
+			series: '3070',
+			url:
+				'https://www.computeruniverse.net/de/asus-tuf-geforce-rtx3070-gaming-oc-tuf-rtx3070-o8g-gaming-8-gb-oc-enthusiast-grafikkarte'
+		},
+		{
+			brand: 'asus',
 			model: 'tuf oc',
 			series: '3080',
 			url:

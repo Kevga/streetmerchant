@@ -342,6 +342,22 @@ export const AmazonDe: Store = {
 		{
 			brand: 'asus',
 			cartUrl:
+				'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08MWS59K8&Quantity.1=1',
+			model: 'tuf',
+			series: '3070',
+			url: 'https://www.amazon.de/dp/B08MWS59K8'
+		},
+		{
+			brand: 'asus',
+			cartUrl:
+				'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08LLG9KQT&Quantity.1=1',
+			model: 'tuf oc',
+			series: '3070',
+			url: 'https://www.amazon.de/dp/B08LLG9KQT'
+		},
+		{
+			brand: 'asus',
+			cartUrl:
 				'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08HSJ1622&Quantity.1=1',
 			model: 'dual',
 			series: '3070',

@@ -99,6 +99,12 @@ export const Saturn: Store = {
 		{
 			brand: 'asus',
 			model: 'tuf oc',
+			series: '3070',
+			url: 'https://www.saturn.de/de/product/-2691247.html'
+		},
+		{
+			brand: 'asus',
+			model: 'tuf oc',
 			series: '3080',
 			url: 'https://www.saturn.de/de/product/-2681861.html'
 		},

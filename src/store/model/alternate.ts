@@ -54,6 +54,18 @@ export const Alternate: Store = {
 		},
 		{
 			brand: 'asus',
+			model: 'tuf',
+			series: '3070',
+			url: 'https://www.alternate.de/product/1679872'
+		},
+		{
+			brand: 'asus',
+			model: 'tuf oc',
+			series: '3070',
+			url: 'https://www.alternate.de/product/1679871'
+		},
+		{
+			brand: 'asus',
 			model: 'tuf oc',
 			series: '3080',
 			url: 'https://www.alternate.de/product/1672634'

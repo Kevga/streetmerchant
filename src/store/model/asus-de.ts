@@ -40,6 +40,13 @@ export const AsusDe: Store = {
 		{
 			brand: 'asus',
 			model: 'tuf oc',
+			series: '3070',
+			url:
+				'https://webshop.asus.com/de/komponenten/grafikkarten/rtx-30-serie/2955/asus-tuf-rtx3070-o8g-gaming'
+		},
+		{
+			brand: 'asus',
+			model: 'tuf oc',
 			series: '3080',
 			url:
 				'https://webshop.asus.com/de/komponenten/grafikkarten/nvidia-serie/2825/asus-tuf-rtx3080-o10g-gaming'
